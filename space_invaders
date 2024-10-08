@@ -1,0 +1,2731 @@
+.text
+      lui $8, 0x1001
+      # boneco 1 - roxo
+      addi $9, $9, 2140#era 568
+      add $8, $8, $9 #incremento 
+      addi $7, $0 0x650099 #cor roxa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -508
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 2040 #era 2036
+      sw $7, 0($8)
+      addi $8, $8, 12 #linha editada
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, -8 #parte das pernas (meio)
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -8
+      sw $7, 0($8)
+      #parte das pernas (fim)
+      addi $8, $8, 508
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      
+      #boneco 1.2 - roxo
+      lui $8, 0x1001
+      addi $9, $9, 80 #era 632
+      add $8, $8, $9 #incremento 
+      addi $7, $0 0x650099 #cor roxa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -508
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 2040 #era 2036
+      sw $7, 0($8)
+      addi $8, $8, 12 #linha editada
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, -8 #parte das pernas (meio)
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -8
+      sw $7, 0($8)
+      #parte das pernas (fim)
+      addi $8, $8, 508
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      
+      #boneco 1.3 - roxo
+      lui $8, 0x1001
+      addi $9, $9, 80  #era 632
+      add $8, $8, $9 #incremento 
+      addi $7, $0 0x650099 #cor roxa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -508
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 2040 #era 2036
+      sw $7, 0($8)
+      addi $8, $8, 12 #linha editada
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, -8 #parte das pernas (meio)
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -8
+      sw $7, 0($8)
+      #parte das pernas (fim)
+      addi $8, $8, 508
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      
+      #boneco 1.4 - roxo
+      lui $8, 0x1001
+      addi $9, $9, 80  #era 632
+      add $8, $8, $9 #incremento 
+      addi $7, $0 0x650099 #cor roxa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -508
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 2040 #era 2036
+      sw $7, 0($8)
+      addi $8, $8, 12 #linha editada
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, -8 #parte das pernas (meio)
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -8
+      sw $7, 0($8)
+      #parte das pernas (fim)
+      addi $8, $8, 508
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      
+      #boneco 1.4 - roxo
+      lui $8, 0x1001
+      addi $9, $9, 80  #era 632
+      add $8, $8, $9 #incremento 
+      addi $7, $0 0x650099 #cor roxa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, -512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -508
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 2040 #era 2036
+      sw $7, 0($8)
+      addi $8, $8, 12 #linha editada
+      sw $7, 0($8)
+      addi $8, $8, 516
+      sw $7, 0($8)
+      addi $8, $8, -8 #parte das pernas (meio)
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -8
+      sw $7, 0($8)
+      #parte das pernas (fim)
+      addi $8, $8, 508
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      
+      #boneco 2 - azul
+      lui $8, 0x1001
+      addi $9, $9, 5812
+      add $8, $8, $9
+      addi $7, $0, 0x0000FF
+      sw $7, 0($8)
+      addi $8, $8, 20 #orelha direita
+      sw $7, 0($8)
+      addi $8, $8, 508 #grude orelha direita
+      sw $7, 0($8)
+      addi $8, $8, -12 #grude orelha esquerda
+      sw $7, 0($8)
+      addi $8, $8, 512 #1 bloco testa
+      sw $7, 0($8) 
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim 1 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 488 #2 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 480 #bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 468 #bloco abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 460 #braço esquerdo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1016 #de cima p baixo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020
+      sw $7, 0($8)
+      addi $8, $8, 512 #metade boca esq
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, -1536
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8376 ao 9400
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8380 ao 9404
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8384 ao 9408
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8388 ao 9412
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8392 ao 10440
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4 #boca direita 
+      sw $7, 0($8) 
+      addi $8, $8, -1024
+      sw $7, 0($8)
+      addi $8, $8, -512 #cheguei no 8396
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512 #conectei com a boca 9936
+      sw $7, 0($8)
+      addi $8, $8, -1024 
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      
+      
+      #boneco 2.2 - azul
+      lui $8, 0x1001
+      addi $9, $9, 80
+      add $8, $8, $9
+      addi $7, $0, 0x0000FF
+      sw $7, 0($8)
+      addi $8, $8, 20 #orelha direita
+      sw $7, 0($8)
+      addi $8, $8, 508 #grude orelha direita
+      sw $7, 0($8)
+      addi $8, $8, -12 #grude orelha esquerda
+      sw $7, 0($8)
+      addi $8, $8, 512 #1 bloco testa
+      sw $7, 0($8) 
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim 1 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 488 #2 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 480 #bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 468 #bloco abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 460 #braço esquerdo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1016 #de cima p baixo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020
+      sw $7, 0($8)
+      addi $8, $8, 512 #metade boca esq
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, -1536
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8376 ao 9400
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8380 ao 9404
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8384 ao 9408
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8388 ao 9412
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8392 ao 10440
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4 #boca direita 
+      sw $7, 0($8) 
+      addi $8, $8, -1024
+      sw $7, 0($8)
+      addi $8, $8, -512 #cheguei no 8396
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512 #conectei com a boca 9936
+      sw $7, 0($8)
+      addi $8, $8, -1024 
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      
+      #boneco 2.3 - azul
+      lui $8, 0x1001
+      addi $9, $9, 84
+      add $8, $8, $9
+      addi $7, $0, 0x0000FF
+      sw $7, 0($8)
+      addi $8, $8, 20 #orelha direita
+      sw $7, 0($8)
+      addi $8, $8, 508 #grude orelha direita
+      sw $7, 0($8)
+      addi $8, $8, -12 #grude orelha esquerda
+      sw $7, 0($8)
+      addi $8, $8, 512 #1 bloco testa
+      sw $7, 0($8) 
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim 1 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 488 #2 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 480 #bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 468 #bloco abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 460 #braço esquerdo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1016 #de cima p baixo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020
+      sw $7, 0($8)
+      addi $8, $8, 512 #metade boca esq
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, -1536
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8376 ao 9400
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8380 ao 9404
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8384 ao 9408
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8388 ao 9412
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8392 ao 10440
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4 #boca direita 
+      sw $7, 0($8) 
+      addi $8, $8, -1024
+      sw $7, 0($8)
+      addi $8, $8, -512 #cheguei no 8396
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512 #conectei com a boca 9936
+      sw $7, 0($8)
+      addi $8, $8, -1024 
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      
+      
+      #boneco 2.5 - azul
+      lui $8, 0x1001
+      addi $9, $9, 80
+      add $8, $8, $9
+      addi $7, $0, 0x0000FF
+      sw $7, 0($8)
+      addi $8, $8, 20 #orelha direita
+      sw $7, 0($8)
+      addi $8, $8, 508 #grude orelha direita
+      sw $7, 0($8)
+      addi $8, $8, -12 #grude orelha esquerda
+      sw $7, 0($8)
+      addi $8, $8, 512 #1 bloco testa
+      sw $7, 0($8) 
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim 1 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 488 #2 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 480 #bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 468 #bloco abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 460 #braço esquerdo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1016 #de cima p baixo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020
+      sw $7, 0($8)
+      addi $8, $8, 512 #metade boca esq
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, -1536
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8376 ao 9400
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8380 ao 9404
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8384 ao 9408
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8388 ao 9412
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8392 ao 10440
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4 #boca direita 
+      sw $7, 0($8) 
+      addi $8, $8, -1024
+      sw $7, 0($8)
+      addi $8, $8, -512 #cheguei no 8396
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512 #conectei com a boca 9936
+      sw $7, 0($8)
+      addi $8, $8, -1024 
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      
+      #boneco 2.2 - azul
+      lui $8, 0x1001
+      addi $9, $9, 80
+      add $8, $8, $9
+      addi $7, $0, 0x0000FF
+      sw $7, 0($8)
+      addi $8, $8, 20 #orelha direita
+      sw $7, 0($8)
+      addi $8, $8, 508 #grude orelha direita
+      sw $7, 0($8)
+      addi $8, $8, -12 #grude orelha esquerda
+      sw $7, 0($8)
+      addi $8, $8, 512 #1 bloco testa
+      sw $7, 0($8) 
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim 1 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 488 #2 bloco testa
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 480 #bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim bloco olhos
+      sw $7, 0($8)
+      addi $8, $8, 468 #bloco abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #fim abaixo dos olhos
+      sw $7, 0($8)
+      addi $8, $8, 460 #braço esquerdo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1016 #de cima p baixo
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020
+      sw $7, 0($8)
+      addi $8, $8, 512 #metade boca esq
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, -1536
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8376 ao 9400
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8380 ao 9404
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8384 ao 9408
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8388 ao 9412
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, -1020 #8392 ao 10440
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 1024
+      sw $7, 0($8)
+      addi $8, $8, 4 #boca direita 
+      sw $7, 0($8) 
+      addi $8, $8, -1024
+      sw $7, 0($8)
+      addi $8, $8, -512 #cheguei no 8396
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512 #conectei com a boca 9936
+      sw $7, 0($8)
+      addi $8, $8, -1024 
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      addi $8, $8, 512
+      sw $7, 0($8)
+      
+      #boneco 3 - vermelho
+      lui $8, 0x1001
+      addi $9, $9, 6340 #1 ponto
+      add $8, $8, $9
+      addi $7, $0, 0xff0000
+      sw $7, 0($8)
+      addi $8, $8, 4 #primeira linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512 #129992, segunda linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 24 #12996
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 13512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 36 #13516
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 14028
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #14008
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 14504
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #14540
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #15016
+      sw $7, 0($8)
+      addi $8, $8, 520 #sétima linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #1556
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 16068
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #16048
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 16560
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #16584
+      sw $7, 0($8)
+      addi $8, $8, -28 #16556
+      sw $7, 0($8)
+      addi $8, $8, 508 #décima linha 17064
+      sw $7, 0($8)
+      addi $8, $8, -4 #17060
+      sw $7, 0($8)
+      addi $8, $8, 40 
+      sw $7, 0($8)
+      addi $8, $8, 4 #17104
+      sw $7, 0($8)
+      
+      #boneco 3.3 - vermelho
+      lui $8, 0x1001
+      addi $9, $9, 80 #1 ponto
+      add $8, $8, $9
+      addi $7, $0, 0xff0000
+      sw $7, 0($8)
+      addi $8, $8, 4 #primeira linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512 #129992, segunda linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 24 #12996
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 13512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 36 #13516
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 14028
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #14008
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 14504
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #14540
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #15016
+      sw $7, 0($8)
+      addi $8, $8, 520 #sétima linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #1556
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 16068
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #16048
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 16560
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #16584
+      sw $7, 0($8)
+      addi $8, $8, -28 #16556
+      sw $7, 0($8)
+      addi $8, $8, 508 #décima linha 17064
+      sw $7, 0($8)
+      addi $8, $8, -4 #17060
+      sw $7, 0($8)
+      addi $8, $8, 40 
+      sw $7, 0($8)
+      addi $8, $8, 4 #17104
+      sw $7, 0($8)
+      
+      #boneco 3.5 - vermelho
+      lui $8, 0x1001
+      addi $9, $9, 80 #1 ponto
+      add $8, $8, $9
+      addi $7, $0, 0xff0000
+      sw $7, 0($8)
+      addi $8, $8, 4 #primeira linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512 #129992, segunda linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 24 #12996
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 13512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 36 #13516
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 14028
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #14008
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 14504
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #14540
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #15016
+      sw $7, 0($8)
+      addi $8, $8, 520 #sétima linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #1556
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 16068
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #16048
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 16560
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #16584
+      sw $7, 0($8)
+      addi $8, $8, -28 #16556
+      sw $7, 0($8)
+      addi $8, $8, 508 #décima linha 17064
+      sw $7, 0($8)
+      addi $8, $8, -4 #17060
+      sw $7, 0($8)
+      addi $8, $8, 40 
+      sw $7, 0($8)
+      addi $8, $8, 4 #17104
+      sw $7, 0($8)
+      
+      #boneco 3 - vermelho
+      lui $8, 0x1001
+      addi $9, $9, 80 #1 ponto
+      add $8, $8, $9
+      addi $7, $0, 0xff0000
+      sw $7, 0($8)
+      addi $8, $8, 4 #primeira linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512 #129992, segunda linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 24 #12996
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 13512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 36 #13516
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 14028
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #14008
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 14504
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #14540
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #15016
+      sw $7, 0($8)
+      addi $8, $8, 520 #sétima linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #1556
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 16068
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #16048
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 16560
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #16584
+      sw $7, 0($8)
+      addi $8, $8, -28 #16556
+      sw $7, 0($8)
+      addi $8, $8, 508 #décima linha 17064
+      sw $7, 0($8)
+      addi $8, $8, -4 #17060
+      sw $7, 0($8)
+      addi $8, $8, 40 
+      sw $7, 0($8)
+      addi $8, $8, 4 #17104
+      sw $7, 0($8)
+      
+      #boneco 3 - vermelho
+      lui $8, 0x1001
+      addi $9, $9, 80 #1 ponto
+      add $8, $8, $9
+      addi $7, $0, 0xff0000
+      sw $7, 0($8)
+      addi $8, $8, 4 #primeira linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 512 #129992, segunda linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 24 #12996
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 13512
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 36 #13516
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 14028
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #14008
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 14504
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #14540
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #15016
+      sw $7, 0($8)
+      addi $8, $8, 520 #sétima linha
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 12
+      sw $7, 0($8)
+      addi $8, $8, 4 #1556
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 16068
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -12
+      sw $7, 0($8)
+      addi $8, $8, -4 #16048
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 16560
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 8
+      sw $7, 0($8)
+      addi $8, $8, 4 #16584
+      sw $7, 0($8)
+      addi $8, $8, -28 #16556
+      sw $7, 0($8)
+      addi $8, $8, 508 #décima linha 17064
+      sw $7, 0($8)
+      addi $8, $8, -4 #17060
+      sw $7, 0($8)
+      addi $8, $8, 40 
+      sw $7, 0($8)
+      addi $8, $8, 4 #17104
+      sw $7, 0($8)
+      
+      #escudo 1
+      lui $8, 0x1001
+      addi $9, $9, 7356
+      add $8, $8, $9
+      addi $7, $0, 0x00FF00
+      sw $7, 0($8) 
+      addi $8, $8, 4 #primeira linha,2a posição 21680
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #21696
+      sw $7, 0($8)
+      addi $8, $8, 512 #segunda linha 22208
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22184
+      sw $7, 0($8)
+      addi $8, $8, 28 #22212
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 22724
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22692
+      sw $7, 0($8)
+      addi $8, $8, 36 #22728
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 23240
+      sw $7, 0($8)      
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23200
+      sw $7, 0($8)
+      addi $8, $8, 44 #23244
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 27356
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23712
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha 24224
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 #24268
+      sw $7, 0($8)
+      addi $8, $8, 512 #sétima linha 24780
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -28 #24744
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #24736
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 25248
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 36 #25288 
+      sw $7, 0($8)
+      addi $8, $8, 4 #25292
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 25804
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -36 #25764
+      sw $7, 0($8)
+      addi $8, $8, -4 #25760
+      sw $7, 0($8)
+      addi $8, $8, 512 #décima linha 26272
+      sw $7, 0($8)
+      addi $8, $8, 44 #26316
+      sw $7, 0($8)
+      
+      #escudo 2
+      lui $8, 0x1001
+      addi $9, $9, 80
+      add $8, $8, $9
+      addi $7, $0, 0x00FF00
+      sw $7, 0($8) 
+      addi $8, $8, 4 #primeira linha,2a posição 21680
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #21696
+      sw $7, 0($8)
+      addi $8, $8, 512 #segunda linha 22208
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22184
+      sw $7, 0($8)
+      addi $8, $8, 28 #22212
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 22724
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22692
+      sw $7, 0($8)
+      addi $8, $8, 36 #22728
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 23240
+      sw $7, 0($8)      
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23200
+      sw $7, 0($8)
+      addi $8, $8, 44 #23244
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 27356
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23712
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha 24224
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 #24268
+      sw $7, 0($8)
+      addi $8, $8, 512 #sétima linha 24780
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -28 #24744
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #24736
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 25248
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 36 #25288 
+      sw $7, 0($8)
+      addi $8, $8, 4 #25292
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 25804
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -36 #25764
+      sw $7, 0($8)
+      addi $8, $8, -4 #25760
+      sw $7, 0($8)
+      addi $8, $8, 512 #décima linha 26272
+      sw $7, 0($8)
+      addi $8, $8, 44 #26316
+      sw $7, 0($8)
+   
+      #escudo 3
+      lui $8, 0x1001
+      addi $9, $9, 160 #era 160!!
+      add $8, $8, $9
+      addi $7, $0, 0x00FF00
+      sw $7, 0($8) 
+      addi $8, $8, 4 #primeira linha,2a posição 21680
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #21696
+      sw $7, 0($8)
+      addi $8, $8, 512 #segunda linha 22208
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22184
+      sw $7, 0($8)
+      addi $8, $8, 28 #22212
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 22724
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22692
+      sw $7, 0($8)
+      addi $8, $8, 36 #22728
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 23240
+      sw $7, 0($8)      
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23200
+      sw $7, 0($8)
+      addi $8, $8, 44 #23244
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 27356
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23712
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha 24224
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 #24268
+      sw $7, 0($8)
+      addi $8, $8, 512 #sétima linha 24780
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -28 #24744
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #24736
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 25248
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 36 #25288 
+      sw $7, 0($8)
+      addi $8, $8, 4 #25292
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 25804
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -36 #25764
+      sw $7, 0($8)
+      addi $8, $8, -4 #25760
+      sw $7, 0($8)
+      addi $8, $8, 512 #décima linha 26272
+      sw $7, 0($8)
+      addi $8, $8, 44 #26316
+      sw $7, 0($8)
+      
+      #escudo 4
+      lui $8, 0x1001
+      addi $9, $9, 80
+      add $8, $8, $9
+      addi $7, $0, 0x00FF00
+      sw $7, 0($8) 
+      addi $8, $8, 4 #primeira linha,2a posição 21680
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 #21696
+      sw $7, 0($8)
+      addi $8, $8, 512 #segunda linha 22208
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22184
+      sw $7, 0($8)
+      addi $8, $8, 28 #22212
+      sw $7, 0($8)
+      addi $8, $8, 512 #terceira linha 22724
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #22692
+      sw $7, 0($8)
+      addi $8, $8, 36 #22728
+      sw $7, 0($8)
+      addi $8, $8, 512 #quarta linha 23240
+      sw $7, 0($8)      
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23200
+      sw $7, 0($8)
+      addi $8, $8, 44 #23244
+      sw $7, 0($8)
+      addi $8, $8, 512 #quinta linha 27356
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #23712
+      sw $7, 0($8)
+      addi $8, $8, 512 #sexta linha 24224
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 4 #24268
+      sw $7, 0($8)
+      addi $8, $8, 512 #sétima linha 24780
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -4 
+      sw $7, 0($8)
+      addi $8, $8, -28 #24744
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -4 #24736
+      sw $7, 0($8)
+      addi $8, $8, 512 #oitava linha 25248
+      sw $7, 0($8)
+      addi $8, $8, 4 
+      sw $7, 0($8)
+      addi $8, $8, 36 #25288 
+      sw $7, 0($8)
+      addi $8, $8, 4 #25292
+      sw $7, 0($8)
+      addi $8, $8, 512 #nona linha 25804
+      sw $7, 0($8)
+      addi $8, $8, -4
+      sw $7, 0($8)
+      addi $8, $8, -36 #25764
+      sw $7, 0($8)
+      addi $8, $8, -4 #25760
+      sw $7, 0($8)
+      addi $8, $8, 512 #décima linha 26272
+      sw $7, 0($8)
+      addi $8, $8, 44 #26316
+      sw $7, 0($8)
+nave:
+lui $8, 0x1001
+   addi $8, $8, 28928
+   addi $7, $0, 0xFFD700
+   sw $7, 0($8)
+   addi $8, $8, 512 #27896
+   sw $7, 0($8)
+   addi $8, $8, 4 #27900
+   sw $7, 0($8)
+   addi $8, $8, -8 #27892
+   sw $7, 0($8)
+   addi $8, $8, 512 #28404
+   sw $7, 0($8)
+   addi $8, $8, -4
+   sw $7, 0($8)
+   addi $8, $8, 8
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   
+   # movimentacao da nave
+d_nave:
+   lui $8, 0x1001
+   addi $8, $8, 28928
+   addi $12, $8, 0  
+   addi $7, $0, 0xFFD700
+   sw $7, 0($8)
+   addi $8, $8, 512 #27896
+   sw $7, 0($8)
+   addi $8, $8, 4 #27900
+   sw $7, 0($8)
+   addi $8, $8, -8 #27892
+   sw $7, 0($8)
+   addi $8, $8, 512 #28404
+   sw $7, 0($8)
+   addi $8, $8, -4
+   sw $7, 0($8)
+   addi $8, $8, 8
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   j v_p
+v_p:
+	beq $13, $0, mudar_cor
+	addi $7, $0, 0xFFD700
+	addi $13, $0, 0
+	j piscar_nave
+mudar_cor:
+	addi $7, $0, 0xc6072e
+	addi $13, $0, 1
+	j piscar_nave
+piscar_nave:
+	addi $8, $12, 0
+   	sw $7, 0($8)
+   	addi $4, $0, 300
+   	addi $2, $0, 32
+   	syscall
+   	j verificar_teclado
+verificar_teclado:
+        addi $3, $8, 0 
+        lw $10, 0($3) 
+	lui $1, 0xffff
+	lw $24, 4($1)
+	beq $24, $0, v_p 
+	addi $25, $0, 'd'
+	beq $24, $25, moverDireita
+	addi $25, $0, 'a'
+	beq $24, $25, moverEsquerda
+	addi $25, $0, ' '
+	beq $24, $25, t
+moverDireita: 
+        sw $0, 4($1)
+        jal apagar_nave
+        li $2, 31
+        addi $12, $12, 16
+        j nave2
+moverEsquerda:
+        sw $0, 4($1)
+	jal apagar_nave
+	addi $12, $12, -16
+	j nave2
+t: 	
+	sw $0, 4($1)
+	addi $20, $0, 3
+	addi $21, $0, 0
+	addi $7, $0, 0xfb4009
+	addi $8, $12, -1024
+	j tiro
+tiro:
+	beq $20, $21, apagar_ultimo_tiro
+	addi $21, $21, 1
+	addi $7, $0, 0xfb4009
+	jal desenhar_tiro #start here
+	addi $7, $0, 0xff0000 #vermelho
+	addi $3, $8, 0
+	lw $5, 0($3)
+	beq $7, $5, apagar_npc
+	addi $3, $3, 512
+	lw $5, 0($3)
+	beq $7, $5, apagar_npc
+	addi $3, $3, 512
+	lw $5, 0($3) #finish here
+	#TESTE 
+	addi $7, $0, 0x0000ff #azul
+	addi $3, $8, 0
+	lw $6, 0($3) 
+	beq $7, $6, apagar_npc
+	addi $3, $3, 512
+	lw $6, 0($3)
+	beq $7, $6, apagar_npc
+	addi $3, $3, 512
+	lw $6, 0($3)
+	#TESTE
+	beq $7, $6, apagar_npc
+	jal apagar_tiro
+	addi $8, $8, -6144 #era 2048
+	j tiro
+apagar_npc:
+	jal apagar_tiro
+	addi $20, $0, 20 #15
+	addi $21, $0, 0
+	addi $8, $12, -13852
+	addi $7, $0, 0x000000
+	jal quadrado_preto
+	j v_p
+quadrado_preto:
+	beq $20, $21, voltar
+	addi $21, $21, 1
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, 512
+	sw $7, 0($8)
+	addi $8, $8, -7164
+	j quadrado_preto
+voltar:
+	jr $31
+desenhar_tiro:
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	addi $4, $0, 200
+	addi $2,$0, 32
+	syscall
+	jr $31
+apagar_tiro:
+	addi $7, $0, 0x000000
+	addi $8, $8, 2048
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	jr $31
+apagar_ultimo_tiro:
+	addi $7, $0, 0x000000
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	sw $7, 0($8)
+	addi $8, $8, -512
+	j v_p
+
+apagar_nave:
+   addi $8, $12, 0
+   addi $7, $0, 0x000000
+   sw $7, 0($8)
+   addi $8, $8, 512 #27896
+   sw $7, 0($8)
+   addi $8, $8, 4 #27900
+   sw $7, 0($8)
+   addi $8, $8, -8 #27892
+   sw $7, 0($8)
+   addi $8, $8, 512 #28404
+   sw $7, 0($8)
+   addi $8, $8, -4
+   sw $7, 0($8)
+   addi $8, $8, 8
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   jr $31
+
+nave2:
+   addi $8, $12, 0
+   addi $7, $0, 0xFFD700
+   sw $7, 0($8)
+   addi $8, $8, 512 #27896
+   sw $7, 0($8)
+   addi $8, $8, 4 #27900
+   sw $7, 0($8)
+   addi $8, $8, -8 #27892
+   sw $7, 0($8)
+   addi $8, $8, 512 #28404
+   sw $7, 0($8)
+   addi $8, $8, -4
+   sw $7, 0($8)
+   addi $8, $8, 8
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   addi $8, $8, 4
+   sw $7, 0($8)
+   j v_p
+   j fim
+ 
+ 
+ fim:
+   addi $2, $0, 10
+   syscall
